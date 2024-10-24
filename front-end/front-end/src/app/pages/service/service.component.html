@@ -1,0 +1,51 @@
+<!-- Breadcrumbs -->
+<div class="breadcrumbs overlay">
+    <div class="container">
+        <div class="bread-inner">
+            <div class="row">
+                <div class="col-12">
+                    <h2>Services</h2>
+                    <ul class="bread-list">
+                        <li><a href="/home">Home</a></li>
+                        <li><i class="icofont-simple-right"></i></li>
+                        <li class="active">Services</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Breadcrumbs -->
+
+@defer{
+<!-- Start service -->
+<section id="services" class="services section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <h2>We Offer Different Services To Improve Your Health</h2>
+                    <img src="assets/img/section-img.png" alt="#">
+                    <p>Our medical facility is dedicated to offering a wide range of healthcare services tailored to
+                        meet your needs. From general treatments to specialized procedures, our expert team is here to
+                        ensure you receive the best care possible.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-12" *ngFor="let service of services">
+                <!-- Start Single Service -->
+                <div class="single-service">
+                    <i [class]="service.icon"></i>
+                    <h4>{{ service.title }}</h4>
+                    <p>{{ service.description }}</p>
+                </div>
+                <!-- End Single Service -->
+            </div>
+        </div>
+    </div>
+</section>
+<!--/ End service -->
+}@placeholder {
+<app-custom-spinner />
+}

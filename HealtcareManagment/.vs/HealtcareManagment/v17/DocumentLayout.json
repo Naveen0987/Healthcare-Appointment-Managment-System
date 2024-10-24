@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp\\HealtcareManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\controllers\\appoinmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\controllers\\appoinmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Migrations\\20241022082311_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealtcareManagment\\Migrations\\20241022082311_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|d:\\csharp\\healtcaremanagment\\healtcaremanagment\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC622-6234-4DBC-89B1-8E3C7326B778}|HealtcareManagment\\HealtcareManagment.csproj|solutionrelative:healtcaremanagment\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "HealtcareManagment\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAArwGUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:23:15.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Models\\User.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\User.cs",
+              "RelativeToolTip": "HealtcareManagment\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:21:14.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Models\\Appointment.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\Appointment.cs",
+              "RelativeToolTip": "HealtcareManagment\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:22:12.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Program.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Program.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Program.cs",
+              "RelativeToolTip": "HealtcareManagment\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvyIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:18:00.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HealtcareManagment\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:20:40.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Models\\Doctor.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\Doctor.cs",
+              "RelativeToolTip": "HealtcareManagment\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:53:31.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "HealtcareManagment\\appsettings.json",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\appsettings.json",
+              "RelativeToolTip": "HealtcareManagment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T07:15:43.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Models\\Prescription.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\Prescription.cs",
+              "RelativeToolTip": "HealtcareManagment\\Models\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:09:08.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Models\\MedicalRecord.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "HealtcareManagment\\Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:09:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppoinmentController.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Controllers\\AppoinmentController.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Controllers\\AppoinmentController.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Controllers\\AppoinmentController.cs",
+              "RelativeToolTip": "HealtcareManagment\\Controllers\\AppoinmentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:27:21.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HealtcareManagment\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:26:03.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241022082311_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Migrations\\20241022082311_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Migrations\\20241022082311_InitialCreate.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Migrations\\20241022082311_InitialCreate.cs",
+              "RelativeToolTip": "HealtcareManagment\\Migrations\\20241022082311_InitialCreate.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAqwA4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:23:11.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "HealtcareManagment\\Models\\Notification.cs",
+              "ToolTip": "D:\\Csharp\\HealtcareManagment\\HealtcareManagment\\Models\\Notification.cs",
+              "RelativeToolTip": "HealtcareManagment\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:10:42.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<!-- Slider Area -->
+<section class="slider">
+    <div class="hero-slider">
+        <!-- Start Single Slider -->
+        @for (slider of sliders; track $index) {
+        <div class="single-slider" style="background-image:url('{{slider.backgroundImage}}')">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7">
+                        <div class="text">
+                            <h1 class="h6 text-secondary" style="font-size: medium;font-weight: normal;">We provide,</h1>
+                            <h1>{{slider.title}} <span>{{slider.subtitle}}</span></h1>
+                            <p>{{slider.description}}</p>
+                            <div class="button">
+                                @for (button of slider.buttons; track $index) {
+                                <a routerLink="{{button.link}}"
+                                    class="btn {{button.isPrimary?'primary':''}}">{{button.text}}</a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        }
+        <!-- End Single Slider -->
+    </div>
+</section>
+<!--/ End Slider Area -->
